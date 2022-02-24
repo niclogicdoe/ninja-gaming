@@ -30,7 +30,4 @@ import '../styles/global.css';
         text-align: center;
     }
 
-    body{
-
-    }
 </style>

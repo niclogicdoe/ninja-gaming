@@ -20,7 +20,4 @@
         padding: 10px;
     }
 
-    .title h1{
-        margin-left: 10px;
-    }
 </style>
